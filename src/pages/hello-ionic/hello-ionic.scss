@@ -1,5 +1,12 @@
 page-hello-ionic {
-    background-color: aqua;
-    
+    .fixed-content {
+        background-image: url('https://previews.123rf.com/images/apostrophe/apostrophe1502/apostrophe150200005/36268583-fondo-abstracto-azul-burbujas-divertidas-y-franja-diagonal-patr%C3%B3n-de-dise%C3%B1o-abstracto-con-textura.jpg');
+        background-size: cover;
+        color: black !important;
+        text-align: justify !important;
+        font-size: 15px;
+        font-style: italic;
+          
 
+        }
 }
